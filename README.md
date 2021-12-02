@@ -4,7 +4,7 @@ Advent of Code is an Advent calendar of small programming puzzles for a variety 
 
 ## Code Organisation
 
-In this repo, please place your solutions in a folder with your name. Please use the following branching strategy for your commits:
+In this repo, please use the following branching strategy for your commits:
 ```
 name/day-x
 ```
